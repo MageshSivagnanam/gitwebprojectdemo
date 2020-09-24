@@ -1,12 +1,10 @@
 Hello this file is test file for the git hub and to test the conflict
 
-I added the new line here for head
-
-
+who added the new line here for head
 
 Hello All no i am not done with editing
-Hello All i am editing this file
 
+Green
 
 Hello All i added the third line
 
