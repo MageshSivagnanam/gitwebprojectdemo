@@ -1,3 +1,6 @@
-Hello this file is test file for the git hub
+Hello this file is test file for the git hub and to test the conflict
 
 Hello All i am editing this file
+
+
+Hello All i added the third line
