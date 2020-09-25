@@ -1,10 +1,6 @@
 Hello this file is test file for the git hub and to test the conflict
-
-who added the new line here for head
-
-Hello All no i am not done with editing
-
-Green
-
+green
+All no i am not done with editing
+all in the 
 Hello All i added the third line
 
