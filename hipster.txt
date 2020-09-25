@@ -1,6 +1,7 @@
 Hello this file is test file for the git hub and to test the conflict
-green
+pink
+
 All no i am not done with editing
-all in the 
+all in the  same
 Hello All i added the third line
 
